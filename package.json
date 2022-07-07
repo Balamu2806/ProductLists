@@ -47,8 +47,7 @@
             "@sap/ux-ui5-tooling",
             "@sap/ux-ui5-fe-mockserver-middleware",
             "@sap/ui5-builder-webide-extension",
-            "ui5-task-zipper",
-            "mbt"
+            "ui5-task-zipper"
         ]
     },
     "sapux": true,
